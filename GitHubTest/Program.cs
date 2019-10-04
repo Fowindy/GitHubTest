@@ -8,6 +8,10 @@ namespace GitHubTest
         {
             int a;
             int b;
+            double C;
+            double A;
+            double B;
+            double E;
             int d;
             int e;
         }
