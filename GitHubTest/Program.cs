@@ -6,6 +6,7 @@ namespace GitHubTest
     {
         static void Main(string[] args)
         {
+            int a;
         }
     }
 }
