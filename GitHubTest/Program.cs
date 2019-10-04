@@ -8,7 +8,7 @@ namespace GitHubTest
         {
             int a;
             int b;
-            int c;
+            double C;
             int d;
             double A;
             double B;
