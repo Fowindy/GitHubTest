@@ -11,6 +11,7 @@ namespace GitHubTest
             int c;
             int d;
             double A;
+            double B;
         }
     }
 }
