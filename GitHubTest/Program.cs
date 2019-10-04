@@ -9,9 +9,9 @@ namespace GitHubTest
             int a;
             int b;
             double C;
-            int d;
             double A;
             double B;
+            double E;
         }
     }
 }
